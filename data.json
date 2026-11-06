@@ -1,0 +1,199 @@
+{
+ "opdateret": "2026-11-06",
+ "sager": [
+  {
+   "nr": "2026-1-1",
+   "titel": "Kollegie – komfort- og procesventilation",
+   "type": "Tilbudsberegning",
+   "fag": [
+    "Ventilation"
+   ],
+   "start": "2026-01-05",
+   "lic": "2026-01-14"
+  },
+  {
+   "nr": "2026-1-2",
+   "titel": "Projektgranskning – ventilation",
+   "type": "Projektgranskning",
+   "fag": [
+    "Ventilation"
+   ],
+   "start": "2026-01-05",
+   "lic": "2026-01-13"
+  },
+  {
+   "nr": "2026-1-3",
+   "titel": "Mængdeudtræk til installatør – pharma, del 1",
+   "type": "Opmåling",
+   "fag": [
+    "Ventilation"
+   ],
+   "start": "2026-01-05",
+   "lic": "2026-01-30"
+  },
+  {
+   "nr": "2026-1-4",
+   "titel": "Projektgranskning – ventilation og brand",
+   "type": "Projektgranskning",
+   "fag": [
+    "Ventilation",
+    "Brand"
+   ],
+   "start": "2026-01-27",
+   "lic": "2026-02-05"
+  },
+  {
+   "nr": "2026-3-1",
+   "titel": "Folehaven",
+   "type": "Tilbudsberegning",
+   "fag": [
+    "Ventilation"
+   ],
+   "start": "2026-03-24",
+   "lic": "2026-03-26"
+  },
+  {
+   "nr": "2026-3-2",
+   "titel": "Tranevej, Ringsted – 126 boliger",
+   "type": "Tilbudsberegning",
+   "fag": [
+    "Ventilation"
+   ],
+   "start": "2026-03-25",
+   "lic": "2026-03-30"
+  },
+  {
+   "nr": "2026-3-3",
+   "titel": "Forsvaret – omklædning og vagtbygning",
+   "type": "Tilbudsberegning",
+   "fag": [
+    "Ventilation"
+   ],
+   "start": "2026-03-26",
+   "lic": "2026-04-07"
+  },
+  {
+   "nr": "2026-4-2",
+   "titel": "Ny skole, Hillerød – totalentreprise",
+   "type": "Tilbudsberegning",
+   "fag": [
+    "Ventilation"
+   ],
+   "start": "2026-04-30",
+   "lic": "2026-05-08"
+  },
+  {
+   "nr": "2026-5-1",
+   "titel": "Kontraktgennemgang – totalentreprise",
+   "type": "Kontraktgennemgang",
+   "fag": [
+    "Ventilation",
+    "Øvrige fag"
+   ],
+   "start": "2026-05-06",
+   "lic": "2026-05-08"
+  },
+  {
+   "nr": "2026-5-2",
+   "titel": "Ørestad Syd – nærgenbrugsstation",
+   "type": "Tilbudsberegning",
+   "fag": [
+    "Ventilation"
+   ],
+   "start": "2026-05-06",
+   "lic": "2026-05-20"
+  },
+  {
+   "nr": "2026-6-1",
+   "titel": "Kontraktgennemgang for entreprenør",
+   "type": "Kontraktgennemgang",
+   "fag": [
+    "Ventilation",
+    "Øvrige fag"
+   ],
+   "start": "2026-06-03",
+   "lic": "2026-06-03"
+  },
+  {
+   "nr": "2026-6-2",
+   "titel": "Brohuset, Ishøj",
+   "type": "Tilbudsberegning",
+   "fag": [
+    "Ventilation"
+   ],
+   "start": "2026-06-03",
+   "lic": "2026-06-25"
+  },
+  {
+   "nr": "2026-6-3",
+   "titel": "Pharma-byggeri, Sjælland",
+   "type": "Tilbudsberegning",
+   "fag": [
+    "HVAC"
+   ],
+   "start": "2026-06-25",
+   "lic": "2026-08-07"
+  },
+  {
+   "nr": "2026-6-4",
+   "titel": "Laboratoriebyggeri",
+   "type": "Tilbudsberegning",
+   "fag": [
+    "HVAC"
+   ],
+   "start": "2026-06-19",
+   "lic": "2026-07-24"
+  },
+  {
+   "nr": "2026-2-2",
+   "titel": "Energiø Bornholm – 5 tilbudsrunder",
+   "type": "Tilbudsberegning",
+   "fag": [
+    "Ventilation"
+   ],
+   "start": "2026-08-10",
+   "lic": "2026-09-30"
+  },
+  {
+   "nr": "2026-8-1",
+   "titel": "Pharma-byggeri, Måløv",
+   "type": "Tilbudsberegning",
+   "fag": [
+    "HVAC"
+   ],
+   "start": "2026-08-26",
+   "lic": "2026-09-07"
+  },
+  {
+   "nr": "2026-9-1",
+   "titel": "Beregning af ændringskrav – ventilation",
+   "type": "Ændringskrav",
+   "fag": [
+    "Ventilation"
+   ],
+   "start": "2026-09-02",
+   "lic": "2026-11-01"
+  },
+  {
+   "nr": "2026-9-2",
+   "titel": "DTU Bygning 330 Space",
+   "type": "Opmåling",
+   "fag": [
+    "Ventilation"
+   ],
+   "start": "2026-09-22",
+   "lic": "2026-09-29"
+  },
+  {
+   "nr": "2026-10-1",
+   "titel": "Agerbæksvej, Risskov – almene boliger",
+   "type": "Tilbudsberegning",
+   "fag": [
+    "Ventilation"
+   ],
+   "start": "2026-10-07",
+   "lic": "2026-11-02"
+  }
+ ],
+ "kommende": []
+}
