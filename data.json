@@ -4,6 +4,7 @@
   {
    "nr": "2026-1-1",
    "titel": "Kollegie – komfort- og procesventilation",
+   "titel_en": "Student housing – comfort and process ventilation",
    "type": "Tilbudsberegning",
    "fag": [
     "Ventilation"
@@ -14,6 +15,7 @@
   {
    "nr": "2026-1-2",
    "titel": "Projektgranskning – ventilation",
+   "titel_en": "Design review – ventilation",
    "type": "Projektgranskning",
    "fag": [
     "Ventilation"
@@ -24,6 +26,7 @@
   {
    "nr": "2026-1-3",
    "titel": "Mængdeudtræk til installatør – pharma, del 1",
+   "titel_en": "Quantity take-off for installer – pharma, part 1",
    "type": "Opmåling",
    "fag": [
     "Ventilation"
@@ -34,6 +37,7 @@
   {
    "nr": "2026-1-4",
    "titel": "Projektgranskning – ventilation og brand",
+   "titel_en": "Design review – ventilation and fire safety",
    "type": "Projektgranskning",
    "fag": [
     "Ventilation",
@@ -45,6 +49,7 @@
   {
    "nr": "2026-3-1",
    "titel": "Folehaven",
+   "titel_en": "Folehaven",
    "type": "Tilbudsberegning",
    "fag": [
     "Ventilation"
@@ -55,6 +60,7 @@
   {
    "nr": "2026-3-2",
    "titel": "Tranevej, Ringsted – 126 boliger",
+   "titel_en": "Tranevej, Ringsted – 126 dwellings",
    "type": "Tilbudsberegning",
    "fag": [
     "Ventilation"
@@ -65,6 +71,7 @@
   {
    "nr": "2026-3-3",
    "titel": "Forsvaret – omklædning og vagtbygning",
+   "titel_en": "Danish Defence – changing rooms and guardhouse",
    "type": "Tilbudsberegning",
    "fag": [
     "Ventilation"
@@ -75,6 +82,7 @@
   {
    "nr": "2026-4-2",
    "titel": "Ny skole, Hillerød – totalentreprise",
+   "titel_en": "New school, Hillerød – turnkey contract",
    "type": "Tilbudsberegning",
    "fag": [
     "Ventilation"
@@ -85,6 +93,7 @@
   {
    "nr": "2026-5-1",
    "titel": "Kontraktgennemgang – totalentreprise",
+   "titel_en": "Contract review – turnkey contract",
    "type": "Kontraktgennemgang",
    "fag": [
     "Ventilation",
@@ -96,6 +105,7 @@
   {
    "nr": "2026-5-2",
    "titel": "Ørestad Syd – nærgenbrugsstation",
+   "titel_en": "Ørestad Syd – recycling station",
    "type": "Tilbudsberegning",
    "fag": [
     "Ventilation"
@@ -106,6 +116,7 @@
   {
    "nr": "2026-6-1",
    "titel": "Kontraktgennemgang for entreprenør",
+   "titel_en": "Contract review for contractor",
    "type": "Kontraktgennemgang",
    "fag": [
     "Ventilation",
@@ -117,6 +128,7 @@
   {
    "nr": "2026-6-2",
    "titel": "Brohuset, Ishøj",
+   "titel_en": "Brohuset, Ishøj",
    "type": "Tilbudsberegning",
    "fag": [
     "Ventilation"
@@ -127,6 +139,7 @@
   {
    "nr": "2026-6-3",
    "titel": "Pharma-byggeri, Sjælland",
+   "titel_en": "Pharma construction, Zealand",
    "type": "Tilbudsberegning",
    "fag": [
     "HVAC"
@@ -137,6 +150,7 @@
   {
    "nr": "2026-6-4",
    "titel": "Laboratoriebyggeri",
+   "titel_en": "Laboratory building",
    "type": "Tilbudsberegning",
    "fag": [
     "HVAC"
@@ -147,6 +161,7 @@
   {
    "nr": "2026-2-2",
    "titel": "Energiø Bornholm – 5 tilbudsrunder",
+   "titel_en": "Energy Island Bornholm – 5 tender rounds",
    "type": "Tilbudsberegning",
    "fag": [
     "Ventilation"
@@ -157,6 +172,7 @@
   {
    "nr": "2026-8-1",
    "titel": "Pharma-byggeri, Måløv",
+   "titel_en": "Pharma construction, Måløv",
    "type": "Tilbudsberegning",
    "fag": [
     "HVAC"
@@ -167,6 +183,7 @@
   {
    "nr": "2026-9-1",
    "titel": "Beregning af ændringskrav – ventilation",
+   "titel_en": "Change claims calculation – ventilation",
    "type": "Ændringskrav",
    "fag": [
     "Ventilation"
@@ -177,6 +194,7 @@
   {
    "nr": "2026-9-2",
    "titel": "DTU Bygning 330 Space",
+   "titel_en": "DTU Building 330 Space",
    "type": "Opmåling",
    "fag": [
     "Ventilation"
@@ -187,6 +205,7 @@
   {
    "nr": "2026-10-1",
    "titel": "Agerbæksvej, Risskov – almene boliger",
+   "titel_en": "Agerbæksvej, Risskov – social housing",
    "type": "Tilbudsberegning",
    "fag": [
     "Ventilation"
