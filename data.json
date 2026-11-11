@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-06",
+ "opdateret": "2026-11-11",
  "sager": [
   {
    "nr": "2026-1-1",
@@ -212,6 +212,28 @@
    ],
    "start": "2026-10-07",
    "lic": "2026-11-02"
+  },
+  {
+   "nr": "2026-11-1",
+   "titel": "B-152 Sisimiut Regionssygehus",
+   "titel_en": "B-152 Sisimiut Regionssygehus",
+   "type": "Tilbudsberegning",
+   "fag": [
+    "Ventilation"
+   ],
+   "start": "2026-11-02",
+   "lic": "2026-11-13"
+  },
+  {
+   "nr": "2026-11-2",
+   "titel": "Boligventilation",
+   "titel_en": "Residential Ventilation",
+   "type": "Tilbudsberegning",
+   "fag": [
+    "Ventilation"
+   ],
+   "start": "2026-11-04",
+   "lic": "2026-11-13"
   }
  ],
  "kommende": []
