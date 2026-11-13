@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-11",
+ "opdateret": "2026-11-13",
  "sager": [
   {
    "nr": "2026-1-1",
@@ -234,6 +234,17 @@
    ],
    "start": "2026-11-04",
    "lic": "2026-11-13"
+  },
+  {
+   "nr": "2026-11-3",
+   "titel": "Ombygning af omklædning",
+   "titel_en": "Kildeskovshallen - Ombygning af omklædning",
+   "type": "Opmåling",
+   "fag": [
+    "Ventilation"
+   ],
+   "start": "2026-11-11",
+   "lic": "2026-11-25"
   }
  ],
  "kommende": []
