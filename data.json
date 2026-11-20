@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-13",
+ "opdateret": "2026-11-20",
  "sager": [
   {
    "nr": "2026-1-1",
@@ -245,6 +245,17 @@
    ],
    "start": "2026-11-11",
    "lic": "2026-11-25"
+  },
+  {
+   "nr": "2026-11-4",
+   "titel": "HVF Nyt Havnebad ved Fisketorvet",
+   "titel_en": "HVF Nyt Havnebad ved Fisketorvet",
+   "type": "Tilbudsberegning",
+   "fag": [
+    "Ventilation"
+   ],
+   "start": "2026-11-20",
+   "lic": "2027-02-03"
   }
  ],
  "kommende": []
