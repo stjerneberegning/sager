@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-20",
+ "opdateret": "2026-11-23",
  "sager": [
   {
    "nr": "2026-1-1",
@@ -258,5 +258,26 @@
    "lic": "2027-02-03"
   }
  ],
- "kommende": []
+ "kommende": [
+  {
+   "titel": "HVF Nyt Havnebad ved Fisketorvet – hovedentreprise (flydende anlæg med saunaer, omklædning og teknikrum)",
+   "omraade": "Hovedstaden",
+   "entreprise": "Hovedentreprise",
+   "fag": [
+    "Ventilation"
+   ],
+   "frist": "2026-12-08",
+   "pq": true
+  },
+  {
+   "titel": "Plejehjem Sundparken, Østamager – 76 almene plejeboliger – totalentreprise",
+   "omraade": "Hovedstaden",
+   "entreprise": "Totalentreprise",
+   "fag": [
+    "Ventilation"
+   ],
+   "frist": "2026-12-02",
+   "pq": true
+  }
+ ]
 }
