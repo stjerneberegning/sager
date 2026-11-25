@@ -1,5 +1,5 @@
 {
- "opdateret": "2026-11-23",
+ "opdateret": "2026-11-25",
  "sager": [
   {
    "nr": "2026-1-1",
@@ -256,6 +256,17 @@
    ],
    "start": "2026-11-20",
    "lic": "2027-02-03"
+  },
+  {
+   "nr": "2026-11-5",
+   "titel": "Plejehjem Sundparken, Østamager",
+   "titel_en": "Plejehjem Sundparken, Østamager",
+   "type": "Tilbudsberegning",
+   "fag": [
+    "Ventilation"
+   ],
+   "start": "2026-11-24",
+   "lic": "2027-02-01"
   }
  ],
  "kommende": [
@@ -266,7 +277,7 @@
    "fag": [
     "Ventilation"
    ],
-   "frist": "2026-12-08",
+   "frist": "2027-02-03",
    "pq": true
   },
   {
@@ -276,7 +287,7 @@
    "fag": [
     "Ventilation"
    ],
-   "frist": "2026-12-02",
+   "frist": "2027-02-01",
    "pq": true
   }
  ]
